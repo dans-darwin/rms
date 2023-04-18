@@ -1,0 +1,37 @@
+.frm{
+	border-radius: 8px;
+	border: 2px solid #73AD21;
+	padding: 30px; 
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	height: 270px;  
+	text-align: center; 
+	width: 400px;
+}
+h1{
+	text-align: center;
+	margin-top: 50px;
+	color: #00BFFF;
+
+}
+.login-box {
+	border-radius: 8px;
+	border: 2px solid #73AD21;
+	padding: 20px; 
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	height: 270px;  
+	text-align: center; 
+	width: 400px;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+	border: 1px solid;
+	color: #000;
+	border-radius: 20px;
+	background-color: #ACE0AC;
+}
+.navbar.default{
+	
+}
